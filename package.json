@@ -1,0 +1,14 @@
+{
+  "name": "aegis-backend",
+  "version": "1.0.0",
+  "description": "Backend for Aegis safety app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "mysql2": "^3.9.0",
+    "cors": "^2.8.5"
+  }
+}
